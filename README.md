@@ -1,3 +1,8 @@
+docker push mikehj24/miko_flask_app:tagname
+
+
+
+
 # SBA Kubernetes Two-Container Cluster
 * **Objective** - Clone and modify this repository locally to ensure that Jenkins can successfully build this project.
 * **Purpose** - To demonstrate container orchestration skillset
